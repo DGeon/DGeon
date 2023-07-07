@@ -1,19 +1,36 @@
 ### Hi there 👋
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=Waving&text=DGeon%World!)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20DGeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
+
+<div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGeon&count_bg=%238E5667&title_bg=%23AD7E71&icon=java.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 </div>
-<!--
-**DGeon/DGeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr style="height: 5px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<span align="center">
+
+# ABOUT
+
+</span>
+
+### Email : alspalsp5475@naver.com <br>
+### WebSite : <a href="https://www.ovmaks.co.kr">https://www.ovmaks.co.kr</a>
+
+
+
+
+
+[![DGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGeon)](https://github.com/DGeon/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGeon)](https://github.com/DGeon/github-readme-stats)
+
+
 <img src="https://img.shields.io/badge/html5-white?style=flat&logo=html5&logoColor=black"/>
+
+
+[![DGeon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DGeon)](https://github.com/DGeon/github-readme-stats)
