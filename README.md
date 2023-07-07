@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20DGeon's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=250)
 
 <div align="right">
@@ -21,7 +19,21 @@
 ### WebSite : <a href="https://www.ovmaks.co.kr">https://www.ovmaks.co.kr</a>
 
 
+<span align="center">
 
+# Skills
+
+</span>
+
+<span align="center">
+
+## Front End
+
+</span>
+
+<img src="https://img.shields.io/badge/html5-yellow?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css-yellow?style=flat&logo=css&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-yellow?style=flat&logo=html5&logoColor=white"/>
 
 
 [![DGeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGeon)](https://github.com/DGeon/github-readme-stats)
@@ -30,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGeon)](https://github.com/DGeon/github-readme-stats)
 
 
-<img src="https://img.shields.io/badge/html5-white?style=flat&logo=html5&logoColor=black"/>
+
 
 
 [![DGeon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DGeon)](https://github.com/DGeon/github-readme-stats)
