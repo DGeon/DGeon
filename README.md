@@ -13,6 +13,8 @@
 
 ### 👤ABOUT
 
+##### 끊임없이 성장하는 개발자 이동건입니다.
+
 </span>
 <div align="center">
 
