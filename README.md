@@ -11,7 +11,7 @@
 
 <span align="center">
 
-# 👤ABOUT
+### 👤ABOUT
 
 </span>
 <div align="center">
@@ -34,14 +34,14 @@
 
 <span align="center">
 
-# 🌱Skills
+### 🌱Skills
 
 </span>
 <br>
 <hr>
 <span align="center">
 
-## Front End
+#### Front End
 
 </span>
 
@@ -58,7 +58,7 @@
 
 <span align="center">
 
-## Back End
+### Back End
 
 </span>
 
@@ -77,7 +77,7 @@
 
 <span align="center">
 
-## DataBase
+### DataBase
 
 </span>
 
@@ -94,7 +94,7 @@
 
 <span align="center">
 
-## VCS
+### VCS
 
 </span>
 
@@ -108,7 +108,7 @@
 
 <span align="center">
 
-## IDE
+### IDE
 
 </span>
 
@@ -123,7 +123,7 @@
 
 <span align="center">
 
-## Distribute
+### Distribute
 
 </span>
 
@@ -137,23 +137,25 @@
 
 <span align="center">
 
-# 📖Port Folio
+### 📖Port Folio
 
 </span>
 <br>
 <hr>
 <div align="center">
 
-## Java
+### Java
 <br>
 
-#### 다국어일정관리어플리케이션 <a href="https://github.com/WooriCalendar">🔗GitHub</a> <a href="https://fn.ovmkas.co.kr">⏯️Demo</a><br>
-#### 푸드得 <a href="https://github.com/yangchanyong/AWS_fullstack_semi_project">🔗GitHub</a> <a href="https://sm.ovmkas.co.kr">⏯️️Demo</a><br>
-#### 게임할인정보 <a href="https://github.com/DGeon/WebServletJsp">🔗GitHub</a><a href="https://pf1.ovmkas.co.kr">⏯️️Demo</a><br>
-## Android
+##### 다국어일정관리어플리케이션 <a href="https://github.com/WooriCalendar">🔗GitHub</a> <a href="https://fn.ovmkas.co.kr">⏯️Demo</a><br>
+##### 푸드得 <a href="https://github.com/yangchanyong/AWS_fullstack_semi_project">🔗GitHub</a> <a href="https://sm.ovmkas.co.kr">⏯️️Demo</a><br>
+##### 게임할인정보 <a href="https://github.com/DGeon/WebServletJsp">🔗GitHub</a><a href="https://pf1.ovmkas.co.kr">⏯️️Demo</a>
 <br>
 
-#### 보람말고 수당주세요 <a href="https://github.com/DGeon/Android_Project">🔗GitHub</a><a href="https://play.google.com/store/apps/details?id=com.firstcalc.amiCalc">⏯️Play Store</a>
+### Android
+<br>
+
+##### 보람말고 수당주세요 <a href="https://github.com/DGeon/Android_Project">🔗GitHub</a><a href="https://play.google.com/store/apps/details?id=com.firstcalc.amiCalc">⏯️Play Store</a>
 
 </div>
 
