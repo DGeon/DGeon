@@ -42,6 +42,12 @@
 <hr>
 <div align="center">
 
+### MEVN
+<br>
+
+##### 건강관리어플리케이션 <a href="https://github.com/DGeonMEVN">🔗GitHub</a> <a href="https://mevn.ovmkas.co.kr">⏯️Demo</a><br>
+<br>
+
 ### Java
 <br>
 
@@ -80,6 +86,7 @@
 <img src="https://img.shields.io/badge/jquery-yellow?style=flat&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-yellow?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/react-yellow?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue-yellow?style=flat&logo=vue.js&logoColor=white"/>
 
 </div>
 
@@ -92,6 +99,10 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/express-blue?style=flat&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-blue?style=flat&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/node-blue?style=flat&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-blue?style=flat&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-blue?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-blue?style=flat&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/springsecurity-blue?style=flat&logo=springsecurity&logoColor=white"/>
@@ -100,6 +111,7 @@
 <img src="https://img.shields.io/badge/java-blue?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/postman-orange?style=flat&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/android-green?style=flat&logo=android&logoColor=white"/>
+
 
 </div>
 
@@ -111,6 +123,7 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/mongodb-red?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/mariadb-red?style=flat&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/oracle-red?style=flat&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-red?style=flat&logo=mysql&logoColor=white"/>
